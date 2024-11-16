@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #68b35c; 
+    color: white; 
+    width: 100%; 
+    box-sizing: border-box;
+}
+
+.logo-app {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
